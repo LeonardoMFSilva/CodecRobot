@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "NgYNnOSTE8aIcbq8q1w1ORMM8zYPaiy5nRQHUlzeylA1ia+UtP3pRtannWdOk2wbN3AeiB5FaS/XuqSa7kd6FQ==",
+  "success": true,
+  "projectFilePath": "/Users/leonardosilva/Desktop/Projects/C#/Codec/Codec/Codec.csproj",
+  "expectedPackageFiles": [
+    "/Users/leonardosilva/.nuget/packages/microsoft.netcore.platforms/1.1.0/microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "/Users/leonardosilva/.nuget/packages/netstandard.library/2.0.0/netstandard.library.2.0.0.nupkg.sha512",
+    "/Users/leonardosilva/.nuget/packages/nunit/3.13.3/nunit.3.13.3.nupkg.sha512"
+  ],
+  "logs": []
+}

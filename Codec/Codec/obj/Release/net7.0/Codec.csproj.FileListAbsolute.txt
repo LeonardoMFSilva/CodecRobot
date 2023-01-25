@@ -1,0 +1,15 @@
+/Users/leonardosilva/Desktop/Projects/C#/Codec/Codec/bin/Release/net7.0/Codec
+/Users/leonardosilva/Desktop/Projects/C#/Codec/Codec/bin/Release/net7.0/Codec.deps.json
+/Users/leonardosilva/Desktop/Projects/C#/Codec/Codec/bin/Release/net7.0/Codec.runtimeconfig.json
+/Users/leonardosilva/Desktop/Projects/C#/Codec/Codec/bin/Release/net7.0/Codec.dll
+/Users/leonardosilva/Desktop/Projects/C#/Codec/Codec/bin/Release/net7.0/Codec.pdb
+/Users/leonardosilva/Desktop/Projects/C#/Codec/Codec/obj/Release/net7.0/Codec.csproj.AssemblyReference.cache
+/Users/leonardosilva/Desktop/Projects/C#/Codec/Codec/obj/Release/net7.0/Codec.GeneratedMSBuildEditorConfig.editorconfig
+/Users/leonardosilva/Desktop/Projects/C#/Codec/Codec/obj/Release/net7.0/Codec.AssemblyInfoInputs.cache
+/Users/leonardosilva/Desktop/Projects/C#/Codec/Codec/obj/Release/net7.0/Codec.AssemblyInfo.cs
+/Users/leonardosilva/Desktop/Projects/C#/Codec/Codec/obj/Release/net7.0/Codec.csproj.CoreCompileInputs.cache
+/Users/leonardosilva/Desktop/Projects/C#/Codec/Codec/obj/Release/net7.0/Codec.dll
+/Users/leonardosilva/Desktop/Projects/C#/Codec/Codec/obj/Release/net7.0/refint/Codec.dll
+/Users/leonardosilva/Desktop/Projects/C#/Codec/Codec/obj/Release/net7.0/Codec.pdb
+/Users/leonardosilva/Desktop/Projects/C#/Codec/Codec/obj/Release/net7.0/Codec.genruntimeconfig.cache
+/Users/leonardosilva/Desktop/Projects/C#/Codec/Codec/obj/Release/net7.0/ref/Codec.dll
